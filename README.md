@@ -4,11 +4,11 @@
 
 This project implements a multi-agent system (MAS) designed for healthcare applications. It integrates multiple AI agents to provide medical interpretations, diagnostic services, treatment recommendations, and health guidance, aiming to improve patient care and overall quality of life.
 
-## Authors
-- 
--
--
--
+## Contributors
+- https://github.com/KonouzA
+- https://github.com/omaar28
+- https://github.com/Retaj12003
+- myself
 
 ## 🚀 Features
 
