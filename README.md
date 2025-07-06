@@ -8,7 +8,7 @@ This project implements a multi-agent system (MAS) designed for healthcare appli
 - https://github.com/KonouzA
 - https://github.com/omaar28
 - https://github.com/Retaj12003
-- myself
+- Myself
 
 ## 🚀 Features
 
